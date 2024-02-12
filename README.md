@@ -8,4 +8,10 @@
 
 ![Screenshot (182)](https://github.com/CoderNitu/Music_Playlist_Store_Data_Analysis/assets/87817227/73712d6a-e86f-4f4e-8516-9d37065db940)
 
+# 𝙏𝙤𝙤𝙡𝙨 𝙖𝙣𝙙 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨
+
+1. PᴏꜱᴛɢʀᴇSQL
+2. PGAᴅᴍɪɴ
+
+
 
