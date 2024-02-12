@@ -4,4 +4,5 @@ Done data analysis on a music playlist store database with SQL by answering key 
 
 ![1](https://github.com/CoderNitu/Music_Playlist_Store_Data_Analysis/assets/87817227/5e3a2867-c60d-411a-a0a1-1d4726130e0e)
 
+## Music Playlist Database Schema
 
