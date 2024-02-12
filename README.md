@@ -1,1 +1,3 @@
 # Music_Playlist_Store_Data_Analysis
+
+Done data analysis on a music playlist store database with SQL by answering key questions by understang the relationship between different database tables with the help of database schema to extact crucial insights such as countries with maximum invoice issued,the city with best customer that contributes towards the sales of the store, the best customer with maximum invoices,the highest selling genre ,etc which will help the store to understand about its customer demographics and its business, and with the help of which they can target their best customers by giving additional offers and organize Promotional music festival to increse its presence and indeed its business.
